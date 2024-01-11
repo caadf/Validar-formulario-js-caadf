@@ -34,7 +34,7 @@ loginForm.addEventListener('submit', (e) => {
         cvcnumber.classList.add('is-invalid')
         cvcnumberFB.innerHTML = "Solo se necesitan numeros"
         cvcnumber.focus();
-    } else if (cvcnumber.value.length != 3) {
+    } else if (cvcnumber.value.length === 3) {
         error = true;
         cvcnumber.classList.add('is-invalid')
         cvcnumberFB.innerHTML = "Se necesitan 3 numeros"
