@@ -1,5 +1,5 @@
 ### Validación de Formulario
-Crear un formulario con HTML, CSS, Bootstrap y posteriormente lograr validarlo. 
+Crear un formulario con HTML, CSS, Bootstrap y Javascript y posteriormente lograr validarlo. 
 
  #### Fundamentos :
 
